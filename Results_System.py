@@ -8,7 +8,7 @@ Run with:  python results_system.py
 
 # GRADE SCALE (TUPLE)
 # A tuple of tuples: (minimum score, letter grade, grade point).
-# A tuple is used because the grading scale is fixed and must not change.
+
 
 GRADE_SCALE = (
     (80, "A", 4.0),
